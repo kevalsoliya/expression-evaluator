@@ -11,7 +11,7 @@ const useStyles = makeStyles((theme) => ({
     padding: 40,
   },
   menuItem: {
-    color: "#000000",
+    color: "#000000 !important",
   },
   select: {
     background: "#ffffff",
